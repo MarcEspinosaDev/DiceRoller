@@ -1,3 +1,5 @@
 <resources>
-    <string name="roll">Roll</string>
+    <string name="roll">Girar dado 1</string>
+    <string name="roll2">Girar dado 2</string>
+    <string name="roll12">Girar dado 2</string>
 </resources>
